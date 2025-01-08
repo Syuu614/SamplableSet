@@ -25,6 +25,7 @@
 #include "HashPropensity.hpp"
 #include <cmath>
 #include <stdexcept>
+#include <iso646.h>
 
 using namespace std;
 

@@ -28,6 +28,7 @@
 #include <vector>
 #include <unordered_map>
 #include <cmath>
+#include <iso646.h>
 
 namespace sset
 {//start of namespace sset
